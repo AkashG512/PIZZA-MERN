@@ -1,12 +1,44 @@
-# React + Vite
+OneBite Pizza Homepage 🍕
+A responsive and visually rich homepage for a pizza delivery service, built using React and Tailwind CSS. This project reflects modern UI/UX principles with clean layout, reusable components, and optimized performance.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Project Overview
+Framework: React (Vite)
+Styling: Tailwind CSS
+Role: UI/UX Designer & Frontend Developer
+Responsive: Mobile • Tablet • Desktop
+Key Features
+Hero section with search functionality and location input
+Special Combo Pizza Cards (S, M, L sizes)
+Newsletter subscription form
+Interactive pizza menu carousel
+Customer testimonial section
+Clean footer with useful links and contact info
+Fully responsive design
+Design Principles
+Consistent layout using grid and flex utilities
+Color palette: Yellow, dark charcoal, white, and light gray
+Typography: Playfair Display for headings, Inter for body text
+Accessibility: Semantic HTML5, ARIA labels, color contrast compliance
+Responsive Design
+Designed mobile-first using Tailwind’s responsive utilities:
 
-Currently, two official plugins are available:
+Mobile (≤ 640px)
+Tablet (641px–1024px)
+Desktop (≥ 1025px)
+Performance & Accessibility
+High Lighthouse scores (performance > 90)
+Lazy-loading images
+Alt text for all images
+Keyboard and screen-reader accessible components
+Future Enhancements
+Dynamic pizza menu from API
+Authentication (Login / Signup)
+Dark mode toggle
+A/B testing for CTAs
+Contact
+Developer & Designer
+Email: akashgotur512@gmail.com
+Location: Gadag, India
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+License
+This project is open source and available under the MIT License.
